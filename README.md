@@ -5,11 +5,20 @@ This repo contains a variety of projects, each bundled with its source code. Use
 Note: These projects are only suggestions. You are free to create your own projects for practical knowledge. The source code is provided solely for understanding. If you are using the source code, it is highly recommended to go through it and understand the concepts.
 Table Of content
 
+## Types of Projects ✅
 [1. JAVA](#top-15-java-projects-with-source-code) <br>
 [2. React](#React-projects-source-code ) <br>
 [3. Full stack](#Top-Full-Stack-Projects) <br>
 
 <hr>
+
+### How to contribute to this repo ?
+
+- Star this repo.
+- Fork the repository.
+- Create an issue with a description about the projects and their GitHub link.
+- Wait for approval.
+- Make changes and create a pull request.
 
 ## Top 15 Java Projects With Source Code
 
