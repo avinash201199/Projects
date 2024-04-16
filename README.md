@@ -20,6 +20,8 @@ Table Of content
 - Wait for approval.
 - Make changes and create a pull request.
 
+<hr>
+
 ## Top 15 Java Projects With Source Code
 
 Java Projects For Beginners
