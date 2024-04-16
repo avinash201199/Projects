@@ -11,6 +11,7 @@ Table Of content
 [3. Full stack](#Top-Full-Stack-Projects) <br>
 [4. Data Science](#Data-Science-Projects) <br>
 [5. C++](#C++-Projects ) <br>
+[6. Machine Learning](#Machine-Learning-Projects)
 
 <hr>
 
@@ -104,6 +105,20 @@ Core Java Projects With Source Code
 10. Sales Management System - https://github.com/whoeverxd/sales
 11. Face Detection App with C++ - https://github.com/elador/FeatureDetection
 12. Digital Calculator -  https://github.com/christopher-siewert/cpp-calculator
+
+## Machine Learning Projects
+
+1. Home Value Prediction Project - https://github.com/Shreyas3108/house-price-prediction
+2. Sales Prediction Project - https://github.com/storieswithsiva/Kaggle-Predicting-Future-Sales
+3. Music Recommendation System Project - https://github.com/ugis22/music_recommender
+4. Black Friday Sales Prediction - https://github.com/nanthasnk/Black-Friday-Sales-Prediction
+5. Stock Prices Predictor with the help of TimeSeries - https://github.com/huseinzol05/Stock-Prediction-Models
+6. Predicting Wine Quality with the help of Wine Quality Dataset- https://github.com/amberkakkar01/Prediction-of-Wine-Quality
+7. MNIST Handwritten Digit Classification- https://github.com/anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning
+8. Myers-Briggs Personality Prediction
+9. Market Basket Analysis - https://github.com/DiegoUsaiUK/Market_Basket_Analysis
+10. Text Summarisation - https://github.com/ebenso/TextSummarizer
+
 
 
 
