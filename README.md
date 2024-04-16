@@ -28,8 +28,6 @@ Table Of content
 
 ## Java Projects
 
-Java Projects For Beginners
-
 1. Password Generator using Java - https://github.com/KZarzour/Password-Generator
 2. Online Survey System - https://github.com/kodekracker/Online-Survey-System
 3. Online Resume Builder - https://github.com/meetakbari/CV-Resume-Builder
