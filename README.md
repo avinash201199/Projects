@@ -9,6 +9,7 @@ Table Of content
 [1. JAVA](#top-15-java-projects-with-source-code) <br>
 [2. React](#React-projects-source-code ) <br>
 [3. Full stack](#Top-Full-Stack-Projects) <br>
+[4. Data Science](#Data-Science-Projects)
 
 <hr>
 
@@ -79,6 +80,19 @@ Advanced Full-Stack Projects
 3. Social Media App/Website - https://github.com/CharlyKeleb/SocialMedia-App
 4. Content Management Tool/System for Blogs - https://github.com/mahmudahsan/pythonbangla.com
 5. Project Management Tool - https://github.com/JordanKnott/taskcafe
+
+
+## Data Science Projects
+1. Fake News Detection Using Python- https://github.com/nishitpatel01/Fake_News_Detection
+2.  Detecting Forest Fire - https://github.com/Skar0/fire-detection
+3. Detection of Road Lane Lines - https://github.com/amusi/awesome-lane-detection
+4. Sentimental Analysis - https://github.com/yashspr/sentiment_analysis_ml_part
+5. Speech Recognition through the Emotions- https://github.com/topics/speech-emotion-recognition
+6. Gender Detection and Age Prediction - https://github.com/smahesh29/Gender-and-Age-Detection
+7. Developing Chatbots - https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK
+8. Detection of Drowsiness in Drivers - https://www.interviewbit.com/blog/data-science-projects/
+9. Diabetic Retinopathy - https://github.com/rsk97/Diabetic-Retinopathy-Detection
+10. Detection of Credit Card Fraud - https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras
 
 
 
