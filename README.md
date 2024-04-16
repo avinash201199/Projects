@@ -20,6 +20,7 @@ Table Of content
 - Create an issue with a description about the projects and their GitHub link.
 - Wait for approval.
 - Make changes and create a pull request.
+- If the heading is not added of the project type , then you can add
 
 <hr>
 
@@ -31,9 +32,6 @@ Java Projects For Beginners
 2. Online Survey System - https://github.com/kodekracker/Online-Survey-System
 3. Online Resume Builder - https://github.com/meetakbari/CV-Resume-Builder
 4. Snake Game using Java - https://github.com/janbodnar/Java-Snake-Game
-
-Intermediate Java Projects With Source Code
-
 5. Data Visualization Software- https://github.com/gavalian/groot
 6. Electricity Billing System - https://github.com/Adarsh9616/Electricity_Billing_System
 7. Web Medical Management System - https://github.com/mokarrom/medical-center
@@ -65,21 +63,17 @@ Core Java Projects With Source Code
 
 ## Full Stack Projects 
 
-For Beginners
 
 1. To-do List Project - https://github.com/snyk-labs/nodejs-goof
 2. Blog Website/App - https://github.com/rajaraodv/react-redux-blog
 3. Chat Application/Website - https://github.com/raineroviir/react-redux-socketio-chat
 4. Portfolio Website - https://github.com/adrianhajdin/portfolio_website
 5. Food Delivery Application/Website - https://github.com/fahadahmed07/react-js-quick-food-delivery-website
-
-Advanced Full-Stack Projects
-
-1. E-commerce Website/App - https://github.com/django-oscar/django-oscar
-2. Video Conferencing App/Website - https://github.com/itstaranarora/video-chat-v1
-3. Social Media App/Website - https://github.com/CharlyKeleb/SocialMedia-App
-4. Content Management Tool/System for Blogs - https://github.com/mahmudahsan/pythonbangla.com
-5. Project Management Tool - https://github.com/JordanKnott/taskcafe
+6. E-commerce Website/App - https://github.com/django-oscar/django-oscar
+7. Video Conferencing App/Website - https://github.com/itstaranarora/video-chat-v1
+8. Social Media App/Website - https://github.com/CharlyKeleb/SocialMedia-App
+9. Content Management Tool/System for Blogs - https://github.com/mahmudahsan/pythonbangla.com
+10. Project Management Tool - https://github.com/JordanKnott/taskcafe
 
 
 ## Data Science Projects
