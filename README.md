@@ -22,7 +22,7 @@ Table Of content
 
 <hr>
 
-## Top 15 Java Projects With Source Code
+## Java Projects
 
 Java Projects For Beginners
 
@@ -48,7 +48,7 @@ Core Java Projects With Source Code
 14. Internet Service Provider Automation System - https://github.com/nitishr7/ISP-Java
 15. Create a Criminal Face Detection System- https://github.com/prasadus92/Face-Recognition
 
-## React projects source code 
+## React projects 
 
 1. React Notes Application - https://github.com/paydendyer/react-notes-app
 2. React Pokemon App using PokeAPI - https://github.com/Megh2507/Pokemon-App
@@ -62,7 +62,7 @@ Core Java Projects With Source Code
 10. E-Commerce Application - https://github.com/meabhisingh/mernProjectEcommerce
 
 
-## Top Full Stack Projects 
+## Full Stack Projects 
 
 For Beginners
 
