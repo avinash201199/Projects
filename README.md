@@ -1,13 +1,13 @@
 # Projects With Source code 
 
-This collection serves as a valuable resource for individuals interested in exploring and learning from practical examples across different domains of software development. Each project within the collection is accompanied by its source code, allowing users to delve into the implementation details, understand the underlying concepts, and potentially utilize or modify the code for their own purposes. Whether you're a beginner looking to gain hands-on experience or an experienced developer seeking inspiration, this collection offers a diverse range of projects to explore and learn from.
+This repo contains a variety of projects, each bundled with its source code. Users can explore these projects to gain insights into implementation details, understand underlying concepts, and even modify the code to suit their needs. Whether you're a novice seeking hands-on experience or a seasoned developer looking for inspiration, this collection offers a wide array of projects to delve into and learn from.
 
 Note: These projects are only suggestions. You are free to create your own projects for practical knowledge. The source code is provided solely for understanding. If you are using the source code, it is highly recommended to go through it and understand the concepts.
 Table Of content
 
 [1. JAVA](#top-15-java-projects-with-source-code) <br>
-[2. React](#React-projects-source-code )
-[3. Full stack](#Top-Full-Stack-Projects)
+[2. React](#React-projects-source-code ) <br>
+[3. Full stack](#Top-Full-Stack-Projects) <br>
 
 <hr>
 
