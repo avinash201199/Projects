@@ -11,7 +11,7 @@ Table Of content
 [3. Full stack](#Full-Stack-Projects) <br>
 [4. Data Science](#Data-Science-Projects) <br>
 [5. C++](#C++-Projects ) <br>
-[6. Machine Learning](#Machine-Learning-Projects)
+[6. Machine Learning](#Machine-Learning-Projects) <br>
 [7. Springboot Advanced Projects](Springboot-Advanced-Projects)
 
 <hr>
