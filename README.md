@@ -12,7 +12,7 @@ Table Of content
 [4. Data Science](#Data-Science-Projects) <br>
 [5. C++](#C++-Projects ) <br>
 [6. Machine Learning](#Machine-Learning-Projects) <br>
-[7. Springboot Advanced Projects](Springboot-Advanced-Projects)
+[7. Springboot Advanced Projects](#Springboot-Advanced-Projects)
 
 <hr>
 
