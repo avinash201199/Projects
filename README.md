@@ -88,6 +88,7 @@ Core Java Projects With Source Code
 8. Detection of Drowsiness in Drivers - https://www.interviewbit.com/blog/data-science-projects/
 9. Diabetic Retinopathy - https://github.com/rsk97/Diabetic-Retinopathy-Detection
 10. Detection of Credit Card Fraud - https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras
+11. Web Scraper - https://github.com/madhurimarawat/Web-Scrapper-Functions
 
 ## C++ Projects 
 
@@ -117,6 +118,7 @@ Core Java Projects With Source Code
 8. Myers-Briggs Personality Prediction
 9. Market Basket Analysis - https://github.com/DiegoUsaiUK/Market_Basket_Analysis
 10. Text Summarisation - https://github.com/ebenso/TextSummarizer
+11. HypertuneML - https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits
 
  ## Springboot Advanced Projects
 
